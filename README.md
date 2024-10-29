@@ -52,7 +52,7 @@ dependencies:
 ## How to Run the App
 **1.Clone the repository:**
 ```bash
-git clone https://github.com/your-username/gaming_platform_webview.git
+git clone https://github.com/Dipanshu22/gaming_platform_webview.git
 cd gaming_platform_webview
 ```
 **2.Install dependencies:**
