@@ -52,7 +52,7 @@ dependencies:
 ## How to Run the App
 **1.Clone the repository:**
 ```bash
-git clone https://github.com/Dipanshu22/gaming_platform_webview.git
+git clone https://github.com/Dipanshu22/GamePlatformWebViewApp.git
 cd gaming_platform_webview
 ```
 **2.Install dependencies:**
@@ -91,4 +91,4 @@ flutter run
 
 This project provides a user-friendly interface for accessing multiple gaming platforms in a single app, leveraging WebView for smooth navigation. Whether you’re looking to explore different game stores or manage platform-specific content, **Gaming Platform WebView** offers a seamless experience across popular gaming platforms.
 
-Feel free to contribute, report issues, or suggest enhancements by opening an issue or pull request on GitHub. We’d love to see your ideas for improving the app!
+Feel free to contribute, report issues, or suggest enhancements by opening an issue or pull request on GitHub. I’d love to see your ideas for improving the app!
